@@ -7,7 +7,7 @@ require 'pry'
 #  meat: ["chicken", "steak", "salmon"],
 #  grains: ["rice", "pasta"]
 # }
-require.pry
+
 def get_the_min(groceries)
   binding.pry
   groceries.min
